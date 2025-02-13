@@ -1,0 +1,16 @@
+{
+    "title": "ClienSO - Innovación y Tecnología",
+    "text": "ClienSO es una empresa especializada en consultoría y asesoramiento en soluciones empresariales, con un enfoque en optimización de procesos y gestión eficiente de recursos tecnológicos. Con un equipo altamente capacitado, ofrece servicios personalizados para mejorar la productividad y seguridad de sus clientes.",
+    "section": [
+      {
+        "title": "¿Quiénes somos?",
+        "content": "Somos una empresa comprometida con la excelencia en servicios de tecnología y consultoría, brindando soluciones eficientes y adaptadas a las necesidades del mercado.",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Nuestros servicios",
+        "content": "Ofrecemos asesoramiento en integración de tecnologías, optimización de infraestructura, gestión de datos y seguridad informática, garantizando un entorno empresarial ágil y confiable.",
+        "icon": "notes.svg"
+      }
+    ]
+  }

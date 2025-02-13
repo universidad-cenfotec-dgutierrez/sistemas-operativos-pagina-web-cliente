@@ -1,0 +1,13 @@
+{
+  "title": "Bienvenido a ClienSO",
+  "text": "En ClienSO, trabajamos para ofrecer soluciones empresariales innovadoras y tecnológicas, asegurando una infraestructura eficiente y adaptada a las necesidades de nuestros clientes.",
+  "button": [
+    {
+      "title": "Explorar servicios"
+    },
+    {
+      "title": "Más información",
+      "color": "#fff"
+    }
+  ]
+}
