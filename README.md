@@ -17,7 +17,7 @@ Make sure you have the following requirements installed on your system:
 
 1. **Clone this repository** to your local machine:
    ```sh
-   git clone https://github.com/your-repository/so-proyect.git
+[   git clone https://github.com/your-repository/so-proyect.git](https://github.com/universidad-cenfotec-dgutierrez/sistemas-operativos-pagina-web-cliente.git)
    ```
 
 2. **Navigate to the project directory:**
